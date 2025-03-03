@@ -1,0 +1,25 @@
+body{
+    height: auto;
+    width: 100%;
+background: rgb(229, 229, 229);
+position: absolute;
+z-index: 0;
+}
+.Diia{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+.Square{
+    position: absolute;
+    z-index: 2;
+    top: 400px;
+    left: 425px;
+}
+.Circle{
+    position: absolute;
+    z-index: 1;
+    top: 800px;
+    left: 850px;
+}
