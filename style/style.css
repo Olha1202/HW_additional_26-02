@@ -78,6 +78,7 @@ body{
     height: 444px;
     background: rgb(255, 216, 75);
     border-radius: 100%;
+    overflow: hidden;
     left: 34px;
     top: 34px;
 }
